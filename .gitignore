@@ -1,0 +1,8 @@
+output/
+output_v2/
+output_v3/
+output_three_way/
+*.csv
+*.html
+__pycache__/
+*.pyc
